@@ -1,6 +1,6 @@
 # CT417-SE3-assigment-1A
 
-## Assigment Detail
+## Assignment Detail
 
 You have been asked to build a student registration system for a university. To ensure code reusability and separation of concerns you have been asked to build the system in the following way.
 
